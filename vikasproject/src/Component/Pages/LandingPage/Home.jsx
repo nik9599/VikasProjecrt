@@ -148,20 +148,22 @@ export default function Home() {
         </div>
       </div>
       <div className="HF">
+        <div className="S" >
         <div className="HF-1">
           {" "}
           <div className="HF1-1">
             {" "}
-            <i class="fa-solid fa-phone fa-xl"></i>{" "}
+            <i className=" T fa-solid fa-phone fa-xl"></i>{" "}
           </div>{" "}
           <p>Toll Free 1800 200 1234</p>
         </div>
         <div className="HF-2">
-          <i class="fa-brands fa-facebook fa-xl "></i>{" "}
+          <i className=" T fa-brands fa-facebook fa-xl "></i>{" "}
           <p>www.facebook.com/cripumps</p>{" "}
         </div>
         <div className="HF-3">
-          <i class="fa-solid fa-globe fa-xl "></i> <p>www.crigroups.com</p>{" "}
+          <i className=" T fa-solid fa-globe fa-xl "></i> <p>www.crigroups.com</p>{" "}
+        </div>
         </div>
       </div>
     </div>

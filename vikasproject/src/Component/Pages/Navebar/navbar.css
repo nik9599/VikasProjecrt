@@ -9,3 +9,10 @@
    height: 150px;
    width: 400px;
 }
+
+@media screen and (max-width:1237px) {
+   .LD img{
+      height: 100px;
+      width: 300px;
+   }
+}
